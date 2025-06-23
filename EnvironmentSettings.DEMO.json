@@ -1,0 +1,13 @@
+{
+  "Environment": "DEMO",
+  "Browser": "Chrome",
+  "URL": "https://employerreacttest.nowapi.me",
+  "AppVersion": "5",
+  "Email": "dhilip",
+  "Password": "Test@123",
+  //"BaseURL": "https://api.demo.doyoukare.com",
+  //"RegisteredEmail": "o.nation@sina.com",
+  //"LogSwitch": "enabled",
+  //"LogLanguage": "Json",
+  //"FailLogLanguage": "Json"
+}

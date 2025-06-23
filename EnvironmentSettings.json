@@ -1,0 +1,13 @@
+{
+    "Environment": "DEBUG",
+    "Browser": "Chrome",
+    "URL": "https://app.demo.doyoukare.com/Account/Login",
+    "AppVersion": "4",
+    "Email": "admin@kare.com",
+    "Password": "123qwe",
+    "BaseURL": "https://api.demo.doyoukare.com",
+    "RegisteredEmail": "o.nation@sina.com",
+    "LogSwitch": "enabled",
+    "LogLanguage": "Json",
+    "FailLogLanguage": "Json"
+}

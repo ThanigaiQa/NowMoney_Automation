@@ -1,0 +1,34 @@
+{
+    "Environment": "AUTO",
+    "Browser": "Chrome",
+    "URL": "https://app.auto.doyoukare.com/Account/Login",
+    "AppVersion": "5",
+    "Email": "admin@kare.com",
+    "Password": "123qwe",
+    "BaseURL": "https://api.auto.doyoukare.com",
+    "RegisteredEmail": "o.nation@sina.com",
+    "LogSwitch": "enabled",
+    "LogLanguage": "Xml",
+    "FailLogLanguage": "Json"
+}
+
+
+/*
+
+*Browser Applicable values
+==========================
+==> 1.Chrome | 2.Firefox | 3.Edge | 4.Opera
+
+*LogSwitch Applicable values
+============================
+==> 1.enabled | 2.disabled
+  
+*LogLanguage Applicable values
+==============================
+==> 1.Xml | 2.Json
+
+*FailLogLanguage Applicable values
+==================================
+==> 1.Xml | 2.Json
+
+*/
